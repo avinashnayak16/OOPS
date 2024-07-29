@@ -1,0 +1,1 @@
+Customer *customer[5];
